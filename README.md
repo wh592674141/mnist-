@@ -3,8 +3,8 @@ mnist_lr minist_keras
 
 mnist_lr
 
-# -*- coding: utf-8 -*-
-# 使用LR进行MNIST手写数字分类
+-*- coding: utf-8 -*-
+使用LR进行MNIST手写数字分类
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 from sklearn.metrics import accuracy_score
